@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pragati tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragati tiwari" height="30" width="40" /></a>
 <a href="https://medium.com/pragati tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pragati tiwari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pragati tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pragati tiwari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKCNrM3sXbPdg6UzAIAmB0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pragati tiwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
