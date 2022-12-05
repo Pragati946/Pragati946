@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/7119ee00255a20b06b30dd1d73451de38718454352530c3fabb428aa13440065/68747470733a2f2f7777772e397365726965732e636f6d2f696d672f73657276696365732f66756c6c2d737461636b2f6265737425323046756c6c253230537461636b253230646576656c6f706d656e74253230636f6d70616e79253230696e253230496e6469612e6a7067)](https://Pratai946.io)
 <h1 align="center">Hi 👋, I'm Pragati Tiwari</h1>
-<h3 align="center">I'm JavaScript Full Stack Developer Front-End - React (Html & Css). Back-End - Nodejs & Expressjs. DataBase - MongoDB & FireBase.</h3>
+<h3 align="center">I'm a JavaScript Full Stack Developer Front-End - React (Html & Css). Back-End - Nodejs & Expressjs. DataBase - MongoDB & FireBase.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati946&label=Profile%20views&color=0e75b6&style=flat" alt="pragati946" /> </p>
